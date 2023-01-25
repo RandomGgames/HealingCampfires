@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 4,
+		"pack_format": 10,
 		"description": "Stand near a campfire to regenerate health. Created by RandomGgames."
 	}
 }
