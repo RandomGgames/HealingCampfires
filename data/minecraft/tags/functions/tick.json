@@ -1,5 +1,5 @@
 {
 	"values": [
-	"terraria_campfires:tick"
+		"healing_campfires:tick"
 	]
 }
