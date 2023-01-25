@@ -1,6 +1,6 @@
 {
 	"pack": {
-	"pack_format": 1,
-	"description": "RandomGgames' Terraria Campfires"
+		"pack_format": 4,
+		"description": "Stand near a campfire to regenerate health. Created by RandomGgames."
 	}
 }
